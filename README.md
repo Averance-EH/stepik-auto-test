@@ -1,2 +1,2 @@
-# stepik-auto-test
+# stepic-auto-test
 Some auto tests
